@@ -14,7 +14,7 @@ export function middleware(request) {
     // return NextResponse.redirect(new URL('/', request.url));
     // if (request.nextUrl.pathname === "/profile"){
     //     return NextResponse.rewrite(new URL('/hello', request.url));
-    // }
+    // }okeikadad
 
 
 
